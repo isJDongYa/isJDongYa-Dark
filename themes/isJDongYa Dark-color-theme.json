@@ -1,6 +1,6 @@
 {
 	"name": "isJDongYa Dark",
-	"type": "dark",
+  "type": "dark",
   "colors": {
 
     "button.background": "#00000070",
